@@ -12,7 +12,7 @@
   <a href="https://tryhackme.com/p/K9Dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
-  <a href="ko-fi.com/ilaik" target="_blank">
+  <a href="https://ko-fi.com/ilaik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
 </div>
